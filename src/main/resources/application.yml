@@ -8,4 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/js/Desktop/github/git-local-repo
+          #uri: file:///Users/js/Desktop/github/git-local-repo
+          uri: https://github.com/shk3029/study-spring-cloud-config-repository.git
+          #username:
+          #password:
